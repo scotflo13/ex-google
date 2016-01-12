@@ -1,0 +1,60 @@
+html body {
+  font-size: small;
+}
+body {
+  background: #FFF;
+  color: #222;
+  height: 100%;
+  margin: 0;
+}
+h1 {
+  font-size: 60px;
+}
+@font-face {font-family: google; src: url('police/Google-spies PERSONNAL USE ONLY.ttf'); }
+
+}
+.barreh {
+  margin-top: 10px;
+  height: 24px;
+  width: auto;
+}
+.google {
+  width: auto;
+  height: 730px;
+}
+.menu {
+  text-align: center;
+  margin-top: 20px;
+  width: auto;
+  height: 35px;
+
+}
+.toogle {
+  position: absolute;
+  top: 150px;
+  height: 120px;
+  width: 100%;
+  text-align: center;
+}
+.toogle2 {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: auto;
+  height: 120px;
+}
+.bar {
+  margin-top: 5px;
+  text-align: center;
+}
+.recherche {
+  width: 585px;
+  height: 30px;
+}
+.envoie {
+  width: 153px;
+  height: 35px;
+}
+.chance {
+  width: 153px;
+  height: 35px;
+}
